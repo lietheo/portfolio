@@ -33,6 +33,7 @@ Projet de Master portant sur l’analyse et le croisement de différentes source
 ⚠️ Le rapport complet n’est pas disponible (confidentialité professionnelle).
 
 👉 Code : https://github.com/lietheo/GEOLAB_GROUPE3_CADASTRE_OCCUPATION
+
 👉 Visualisation : https://lietheo.github.io/GEOLAB_GROUPE3_CADASTRE_OCCUPATION/
 
 ---
