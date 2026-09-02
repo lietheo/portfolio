@@ -27,10 +27,14 @@ Projet de conversion et structuration de données DAO vers un environnement SIG 
 
 ### Plugin QGIS – Traitement LiDAR
 
-Développement d’un plugin QGIS permettant la génération de rasters à partir de données LiDAR.
+Développement d’un plugin QGIS permettant la génération de MNT rasters à partir de données LiDAR.
 Projet issu d’un travail tutoré, approfondi ensuite en projet personnel.
 
 👉 https://github.com/LIEGEON-QGIS-PLUGINS/RasterFromLiDAR-QGIS
+
+Développement d'un plugin QGIS permettant la recherche et la visualisation de séries temporelles d'imagerie Sentinel-2.
+
+👉 https://github.com/LIEGEON-QGIS-PLUGINS/Sentinel2Timelapse-QGIS
 
 ---
 
