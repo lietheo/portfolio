@@ -64,8 +64,4 @@ Modélisation et simulation de l’évolution de la dégradation des milieux for
 
 👉 https://github.com/lietheo/Group3_ForestDegradationSim
 
-## 📫 Contact
-
-N'hésitez pas à me contacter pour toute opportunité ou échange professionnel.
-
 ---
