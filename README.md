@@ -25,7 +25,7 @@ Projet de conversion et structuration de données DAO vers un environnement SIG 
 
 ---
 
-### Plugin QGIS – Traitement LiDAR
+### Plugin QGIS
 
 Développement d’un plugin QGIS permettant la génération de MNT rasters à partir de données LiDAR.
 Projet issu d’un travail tutoré, approfondi ensuite en projet personnel.
